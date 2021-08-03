@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-31T16:57:58 IST" name="Default suite" finished-at="2021-07-31T16:59:31 IST" duration-ms="92411">
+    <groups>
+    </groups>
+    <test started-at="2021-07-31T16:57:58 IST" name="Default test" finished-at="2021-07-31T16:59:31 IST" duration-ms="92411">
+      <class name="com.qa.test.GetAPITest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.test.GetAPITest@c03cf28]" started-at="2021-07-31T16:57:58 IST" name="setUp" finished-at="2021-07-31T16:57:58 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getWithHeaderTest()[pri:0, instance:com.qa.test.GetAPITest@c03cf28]" started-at="2021-07-31T16:57:58 IST" name="getWithHeaderTest" finished-at="2021-07-31T16:59:11 IST" duration-ms="72549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWithHeaderTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.test.GetAPITest@c03cf28]" started-at="2021-07-31T16:59:21 IST" name="setUp" finished-at="2021-07-31T16:59:21 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getWithoutHeaderTest()[pri:0, instance:com.qa.test.GetAPITest@c03cf28]" started-at="2021-07-31T16:59:21 IST" name="getWithoutHeaderTest" finished-at="2021-07-31T16:59:24 IST" duration-ms="2968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWithoutHeaderTest -->
+      </class> <!-- com.qa.test.GetAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
